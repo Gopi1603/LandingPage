@@ -6,7 +6,7 @@ Welcome to **Awesome page**! 🚀 This project aims to provide an amazing experi
 Check out the live demo [here](https://utifylandingpage.netlify.app/).
 
 ## 📸 Screenshots
-![Screenshot 1](link-to-screenshot-1.png)
+![Screenshot 1]([link-to-screenshot-1.png](https://drive.google.com/file/d/1JiX3fp_VhKhdZh_93mGALCbp-RSh2mMY/view?usp=sharing))
 
 
 ## 📖 Table of Contents
